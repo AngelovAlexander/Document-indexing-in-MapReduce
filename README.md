@@ -1,4 +1,4 @@
-# Document-indexing-in-MapReduce
+# Document indexing in MapReduce
 
 Constructing an index from a corpus that can support efficient and effective search, and critically evaluate the resulting program and index in a report.
 
